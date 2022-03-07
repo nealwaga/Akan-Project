@@ -37,4 +37,8 @@ function getAkan(){
             {day: "Friday" , name: "Afua"},
             {day: "Saturday" , name: "Ama"},
         }
+
+        if(userGender=="Male"){
+            for (let [ key, value] of Object.entries(males)) 
+        }
 }
