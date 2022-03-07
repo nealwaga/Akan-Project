@@ -19,6 +19,8 @@ function getAkan(){
     const userGender = getGender("Male")
     let males = 
         {
-            {day: "Sunday"}
+            {day: "Sunday" , name: "Kwasi"}
+            {day: "Monday" , name: "Kwadwo"}
+            
         }
 }
