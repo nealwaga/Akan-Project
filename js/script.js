@@ -39,12 +39,13 @@ function getAkan(){
         }
 
         if(userGender=="Male"){
-            for (let [ key, value] of Object.entries(males)) {
+            for (let [key, value] of Object.entries(males)) {
                 if(index == key){
                     return value.name
                 }
             }
         }
+        return value.name
 
         if(userGender=="Female"){
             for (let [key , value] of Object.entries(females)) {
@@ -53,4 +54,8 @@ function getAkan(){
                 }
             }
         }
+        return value.name
 }
+
+console.log(getAkan())
+// console.log(getIndex)
