@@ -11,3 +11,8 @@ function getIndex(userDate) {
 function getGender(gender) {
     return gender 
 }
+
+function getAkan(){
+    /*const v = document.getElementById("genders").value
+    const a = document.getElementById("birthday").value */
+}
