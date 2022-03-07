@@ -15,4 +15,10 @@ function getGender(gender) {
 function getAkan(){
     /*const v = document.getElementById("genders").value
     const a = document.getElementById("birthday").value */
+    const index = getIndex("3/7/2022");
+    const userGender = getGender("Male")
+    let males = 
+        {
+            {day: "Sunday"}
+        }
 }
