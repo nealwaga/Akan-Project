@@ -23,5 +23,12 @@ function getAkan(){
             {day: "Monday" , name: "Kwadwo"},
             {day: "Tuesday" , name: "Kwabena"},
             {day: "Wednesday" , name: "Kwaku"},
+            {day: "Thursday" , name: "Yaw"},
+            {day: "Friday" , name: "Kofi"},
+            {day: "Saturday" , name: "Kwame"},
+        }
+    let females = 
+        {
+            {day: "Sunday" , name: "Akosua",}
         }
 }
