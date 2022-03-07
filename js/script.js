@@ -5,5 +5,9 @@ function getIndex(userDate) {
         console.log("error!")
     } else 
     return date.getDay()
-    
+
+}
+
+function getGender(gender) {
+    return gender 
 }
