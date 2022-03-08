@@ -1,12 +1,22 @@
 div {
     background-color: lightgrey;
-    width: 300px;
+    width: 100px;
     border: 15px solid green;
     padding: 50px;
-    margin: 20px;
+    margin: auto;
   }
   body{ 
     background-color: gray;
     margin: 0px;
     padding: 0px;
+}
+div {
+    background-color: lightgrey;
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: auto;
+}
+h1{
+    text-align: center;
 }
