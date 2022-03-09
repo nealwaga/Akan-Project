@@ -10,7 +10,7 @@ It is super easy to understand.
 
 THere are no bugs or issues that would corrupt your system, so don't worry.
 
-I managed to use HTML, CSS and JavaScript languages.
+I managed to use HTML, CSS and JavaScript languages. I also tried using JSON array & dummy data, although I found a bit of difficulty.
 
 If you encounter problems, have questions or want to pitch in ideas or suggestions, do not hesitate to contact me at waganeal@gmail.com
 It will be much appreciated.
